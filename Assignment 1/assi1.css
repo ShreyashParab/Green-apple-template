@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color:white;
+}
+
+.heading , .footer{   
+    background-color:red;
+    text-align: center;
+    padding: 2px;
+}
+label{
+    background-color: orangered;
+}
+
+.forms , input{
+    background-image: linear-gradient(to right, red , yellow);
+}
+
+.forms{
+    padding: 40px;
+    border: 5px dotted black;
+    border-radius: 10px;
+}
+
+.poster{
+    margin-top: 10px;
+    border-radius: 50px;
+}
+img{
+    border-radius: 15px;
+}
