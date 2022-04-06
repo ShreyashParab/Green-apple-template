@@ -1,0 +1,154 @@
+/* your code here */
+body{
+    background-color:#f54242;
+    
+  }
+  
+  .product__info{
+  position:absolute;
+   background-color:white;
+   top: 50%;
+   left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    height:550px;
+    width:550px;
+    border: 1px solid grey;
+    border-radius:10px;
+  }
+  
+  .container{
+    float:right;
+    padding-right:35px;
+    margin-top:40px;
+  }
+  
+  .title h1{
+    font-family: cursive, sans-serif;
+    font-weight:bold;
+    margin-bottom:2px;
+  }
+  
+  .title span{
+    color:grey;
+  }
+  
+  .price{
+    color:red;
+    margin-top:23px;
+    margin-bottom:20px;
+  }
+  
+  .price .sign{
+    font-size: 25px;
+  }
+  
+  .price span{
+    font-size:50px;
+  }
+  
+  .variant h3, .description h3{
+    color:grey;
+    font-family:"Gill Sans", sans-serif;
+    font-size:12px;
+    font-weight:bolder;
+  }
+  
+  .variant img{
+    height:30px;
+    width:30px;
+    padding-right:3px;
+    margin-bottom:15px;
+    border-radius:3px;
+  }
+  
+  .variant .img1{
+    border:1px solid grey;
+  }
+  
+  .fruit_img{
+    padding-left:50px;
+  }
+  
+  .description ul{
+  font-family: system-ui;
+    font-size:13.5px;
+    text-align:justify;
+  }
+  
+  .description ul li{ 
+  margin-bottom:3px;
+  }
+  
+  .buy--btn{
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:35px;
+    padding-right:35px;
+    margin-top:15px;
+    font-family: system-ui;
+    color:white;
+    background-color:#f54e42;
+    font-weight:bold;
+    border-radius:8px;
+    border:none;
+     box-shadow: 0 8px 12px rgba(0,0,0,.50), 0 0 6px rgba(0,0,0,.30);
+  }
+  
+  .product_container{
+    height:450px;
+    width:285px;
+    background-color:white;
+    border:1px solid grey;
+    border-radius:10px;
+    position:absolute;
+    top:15%;
+    left:26%;
+    z-index:1;
+    box-shadow: 0 8px 12px rgba(0,0,0,.30), 0 0 6px rgba(0,0,0,.20);
+  }
+  
+  .controls{
+    color:white;
+  }
+  
+  .controls .share{
+    float:left;
+    padding-left:15px;
+  }
+  
+  .controls .like{
+    float:right;
+    padding-right:15px;
+  }
+  
+  .photo-main{
+    background: linear-gradient(to bottom right,orangered, pink);
+    height: 340px;
+    padding-top:8px;
+    border-radius:10px;
+  }
+  
+  .photo-main img{
+  width:300px;
+    position:relative;
+    right:25%
+    
+  }
+  
+  
+  .photo-album{
+    margin-right:10px;
+  }
+  
+  .photo-album img{
+    width: 50px;
+    height:50px;
+    float:right;
+    margin-top:25px;
+    margin-right:6px;
+    border:1px solid gray;
+    border-radius:5px;
+  }
+  
+  
+  
