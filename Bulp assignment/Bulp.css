@@ -1,0 +1,50 @@
+body{
+    background-color: #f4dacd;
+}
+
+.Container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.oneButton , .twoButton{
+    border: 1px solid black;
+    padding: 70px 120px 70px 120px;
+}
+
+.oneButton{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.twoButton{
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
+.btn1  , .btn2{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn1 .on , .btn1 .off , .btn2 .onoff{
+    border: none;
+    padding: 8px 20px;
+    color:white;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.btn1 .on{
+    background-color: green;
+}
+
+.btn1 .off{
+    background-color: rgb(246, 29, 29);
+}
+
+.btn2 .onoff{
+    background-color: rgb(24, 216, 216);
+}
