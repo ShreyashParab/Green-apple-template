@@ -91,7 +91,8 @@ body{
     font-weight:bold;
     border-radius:8px;
     border:none;
-     box-shadow: 0 8px 12px rgba(0,0,0,.50), 0 0 6px rgba(0,0,0,.30);
+    box-shadow: 0 8px 12px rgba(0,0,0,.50), 0 0 6px rgba(0,0,0,.30);
+    cursor:pointer;
   }
   
   .product_container{
