@@ -12,12 +12,7 @@ To run this website
 ## Screenshots
 
 
-![Screenshot 1](https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot1.png)
-
-![Screenshot 2](https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot2.png)
-
-![Screenshot 3](https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot3.png)
-
+![Screenshot 1]([https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot1.png](https://raw.githubusercontent.com/ShreyashParab/Green-apple-template/main/Green%20apple/assets/ss.png))
 
 ## License
 
