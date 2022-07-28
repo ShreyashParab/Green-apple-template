@@ -1,4 +1,24 @@
 # Green apple Template
 This is an template design which is made by using only HTMl and CSS.
 
+To run this website
+
+```bash
+  https://shreyashparab.github.io/Green-apple-template/Green%20apple/apple.html
+```
+
+
+## Screenshots
+
+
+![Screenshot 1](https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot1.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/ShreyashParab/javascriptCalculator/main/Calculator/assets/screenshots/screenshot3.png)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
